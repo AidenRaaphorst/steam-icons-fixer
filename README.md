@@ -45,6 +45,6 @@ Detect **all installed** games and download icons if they don't exist yet
 
 ## Inspiration
 
-https://github.com/mrsimb/steam_blank_icon_fix
-https://github.com/tygerfox/steamiconrecovery
-https://github.com/manav907/FixSteamICON
+- https://github.com/mrsimb/steam_blank_icon_fix
+- https://github.com/tygerfox/steamiconrecovery
+- https://github.com/manav907/FixSteamICON
